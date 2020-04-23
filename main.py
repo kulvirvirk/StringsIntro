@@ -17,3 +17,8 @@ print(len(full_name))
 #check string if it contains "foo"
 x = "foo" in full_name
 print(x)
+
+
+# print the greetings 5 times 
+greetings = 'Hola!'
+print(5* greetings)
